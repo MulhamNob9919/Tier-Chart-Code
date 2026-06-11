@@ -36,7 +36,7 @@ C | Filler Anime Name
 
 #### Visual example:
 
-![Screenshot](https://imgur.com/a/i6gDnTm)
+![Screenshot](https://i.imgur.com/RiuFBDh.jpeg)
 
 As you can see in letters make up the word "Morse" (Counting the first characters only, or as 0) and "Code" (as only the last characters, aka 1).
 
