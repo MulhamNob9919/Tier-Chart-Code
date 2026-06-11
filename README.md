@@ -10,7 +10,7 @@ Created by Mulham
 
 ### Documentation
 
-!! Warning: it is possible that this is not the original idea and someone have done published it in an article or a post somewhere in the internet. this idea is entirely made up after 4 cups of coffee and 5am shower thoughts.
+!! Warning: it is possible that this is not the original idea and someone have done published it in an article or a post somewhere in the internet. this idea is entirely made up after 4 cups of coffe and 5am shower thoughts
 
 
 Its an easy but undetectable way to hide message, might take some time for someone to decode it as it as it is an unfamiliar way.
@@ -36,11 +36,16 @@ And yes we will post this as if its a normal
 discussion on reddit or X/Twitter to seem normal af.
 
 For example:
-Anime List 010
-S | Monster, Overlord, Re:Zero, Steins;Gate, Erased
-A | Blood-C, Dororo, Initial D, Death Note
-B | Filler Anime Name
-C | Filler Anime Name
+
+### Anime List 010
+
+#### S | Monster, Overlord, Re:Zero, Steins;Gate, Erased
+
+#### A | Blood-C, Dororo, Initial D, Death Note
+
+#### B | Filler Anime Name
+
+#### C | Filler Anime Name
 ..
 
 (theres an example picture of how i meant to use the names below.)
