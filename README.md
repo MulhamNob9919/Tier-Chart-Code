@@ -1,11 +1,7 @@
 
-# Tier Chart Message
+# Tier Chart Hidden Message Method
 
 A creative way to hide messages in your products tier charts.
-
-Created by Mulham
-
-
 
 
 ### Documentation
@@ -25,7 +21,7 @@ In chart if we use the boolean to decide the code here we can simply say that 1 
 Lets say someone created the chart, he can name it
 as "Anime Chart 101" or "Video game Chart 010".
 
-We will try to write out the word: MORSE CODE. But we need to know quite lots of anime/games incase anyone asks why or how its in S/A/B/C.. sections. And yes we will post this as if its a normal discussion on reddit or X/Twitter to seem normal af.
+We will try to write out the word: MORSE CODE. But we need to know quite lots of anime/games incase anyone asks why or how its in S/A/B/C.. sections. And yes we will post this as if its a normal discussion on reddit or X/Twitter to seem normal.
 
 #### For example:
 ```
@@ -44,15 +40,14 @@ C | Filler Anime Name
 
 As you can see in letters make up the word "Morse" (Counting the first characters only, or as 0) and "Code" (as only the last characters, aka 1).
 
-This way without gathering suspicions we could
-basically send out message to someone and
-communicate.
+This way without gathering suspicions we could basically send out message to someone and communicate.
 
 
 
 ## Feedback
 
 If you have any feedback, please reach out to me at prodbymul@gmail.com
+Created by Mulham with Love.
 
 
 ## Authors
