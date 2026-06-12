@@ -1,7 +1,7 @@
 
 # Tier Chart Hidden Message Method
 
-A creative way to hide messages in your products tier charts.
+A creative way to hide messages in your products tier charts, born from Steganography + Cryptography.
 
 
 ### Documentation
